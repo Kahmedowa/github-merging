@@ -1,2 +1,1 @@
-
-Passwort muss muss muss
+Passwort muss 3 Zeichnen lang sein
